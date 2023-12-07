@@ -71,8 +71,6 @@
 
 <br/>  
 ## Experience
-<br/>
-
 |          Period         	|                     Title                    	|               link              	|
 |:-----------------------:	|:--------------------------------------------:	|:-------------------------------:	|
 | 2023.11.22 ~            	| Backend developer, StudyMapCanada            	| https://www.StudyMapCanada.com/ 	|
