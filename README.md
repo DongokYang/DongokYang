@@ -72,6 +72,7 @@
 
 <br/>  
 ## Experience  
+<div align="center">
 <br />
 
 |          Period         	|                     Title                    	|               link              	|
