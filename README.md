@@ -82,6 +82,14 @@
 
 <br/>  
 
+## Experience
+
+| **Period**            | **Title**                                      | **Link**                           |
+|:----------------------:|:----------------------------------------------:|:----------------------------------:|
+| 2023.11.22 ~          | Backend Developer, StudyMapCanada               | [StudyMapCanada](https://www.StudyMapCanada.com/)  |
+| 2022.08.25 ~          | Co-founder and Frontend Developer, Friending   | [Friending](https://www.friending.online/)        |
+| 2022.07.01 ~ 2023.01.31| English Instructor, Triango Education           |                                      |
+| 2020.11.30 ~ 2022.05.29| Sergeant, Korea Army                            |                                      |
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
