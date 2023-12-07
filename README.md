@@ -70,17 +70,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DongokYang&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-## Experience
-<br/>  
-|          Period         	|                     Title                    	|               link              	|
-|:-----------------------:	|:--------------------------------------------:	|:-------------------------------:	|
-| 2023.11.22 ~            	| Backend developer, StudyMapCanada            	| https://www.StudyMapCanada.com/ 	|
-| 2022.08.25 ~            	| Co-founder and Frontend developer, Friending 	| https://www.friending.online/   	|
-| 2022.07.01 ~ 2023.01.31 	| English instructor, Triango Education        	|                                 	|
-| 2020.11.30 ~ 2022.05.29 	| Sergeant,Korea Army                          	|                                 	|
-  
-
-<br/>  
 
 ## Experience
 
